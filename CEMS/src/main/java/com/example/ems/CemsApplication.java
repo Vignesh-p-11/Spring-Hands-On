@@ -8,7 +8,7 @@ public class CemsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CemsApplication.class, args);
-		System.out.println("Employee Management Application");
+		System.out.println("_______Employee Management Application_______");
 	}
 
 }
